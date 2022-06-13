@@ -24,3 +24,6 @@ Target 2022
 KET
 * Materi
 = Praktek
+
+
+UNTUK SEKARANG BELAJAR GIT & GITHUB DULU
