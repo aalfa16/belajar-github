@@ -1,0 +1,16 @@
+Target 2022
+#BelajarCoding
+
+*Dasar
+- HTML 
+- CSS
+- JS
+
+= Buat projek *Dasar
+
+*Lanjutan
+- HTML5
+- CSS3
+- JS DOM
+
+= Buat projek *Lanjutan
