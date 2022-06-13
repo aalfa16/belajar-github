@@ -1,6 +1,7 @@
 Target 2022
 #BelajarCoding
 
+(FrontEnd)
 *Dasar
 - HTML 
 - CSS
@@ -15,4 +16,12 @@ Target 2022
 
 = Buat projek *Lanjutan
 
-= Buat web portofolio
+= Buat web portofolio *Dasar & *Lanjutan
+
+
+
+
+KET
+* Materi
+= Praktek
+dah
