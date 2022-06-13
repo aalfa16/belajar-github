@@ -14,3 +14,5 @@ Target 2022
 - JS DOM
 
 = Buat projek *Lanjutan
+
+= Buat web portofolio
