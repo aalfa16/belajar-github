@@ -24,4 +24,3 @@ Target 2022
 KET
 * Materi
 = Praktek
-dah
